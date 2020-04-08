@@ -1,0 +1,74 @@
+No address books stored
+========== Unique Friends from Three Address Books ==========
+==Input==
+Address Book: ab1
+Friends:
+Bob
+Mary
+Jane
+
+Address Book: ab2
+Friends:
+Mary
+John
+Jane
+
+Address Book: ab3
+Friends:
+Bob
+Ruby
+Paul
+Zee
+
+==Output==
+Address Books: ab1, ab2, ab3
+Zee
+Ruby
+Paul
+John
+
+
+
+========== Unique Friends from Two Address Books ==========
+==Input==
+Address Book: ab1
+Friends:
+Bob
+Mary
+Jane
+
+Address Book: ab2
+Friends:
+Mary
+John
+Jane
+
+==Output==
+Address Books: ab1, ab2
+Bob
+John
+
+
+
+========== Display the list of friends sorted by their name ==========
+==Input==
+Address Book: ab1
+Friends:
+Ruby, 03 9 605 3147
+Bob, 02 9218 5479
+John, 02 605 3147
+Mary, 04 9218 5479
+Jane, 02 9 605 3147
+
+==Output==
+Address Book: ab1
+Friends:
+Bob, 02 9218 5479
+Jane, 02 9 605 3147
+John, 02 605 3147
+Mary, 04 9218 5479
+Ruby, 03 9 605 3147
+
+
+
+Process finished with exit code 0
